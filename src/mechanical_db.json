@@ -1,0 +1,209 @@
+[{
+        "id": 1,
+        "name": "Amitav Panda",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+
+    {
+        "id": 2,
+        "name": "Elon Musk",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+
+    {
+        "id": 3,
+        "name": "Rohit Sharma",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+
+    {
+        "id": 4,
+        "name": "Dimple Lopes",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+    {
+        "id": 5,
+        "name": "Olivia Brock",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+
+    {
+        "id": 6,
+        "name": "Steve Jobs",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+    {
+        "id": 7,
+        "name": "MS Dhoni",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+
+
+    {
+        "id": 8,
+        "name": "KL Rahul",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+
+    {
+        "id": 9,
+        "name": "Bill Gates",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+    {
+        "id": 10,
+        "name": "Chloe Cadwell",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+
+
+    {
+        "id": 11,
+        "name": "Farhan",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+    {
+        "id": 12,
+        "name": "Rancho",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+    {
+        "id": 13,
+        "name": "Satyam",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    },
+
+
+
+    {
+        "id": 14,
+        "name": "Sibam",
+        "branch": "Electrical",
+        "MorningShiftDays": 123,
+        "EveningShiftDays": 242,
+        "MorningLoginTime": "10:30",
+        "MornigLogoutTime": "20:30",
+        "EveningLoginTime": "20:30",
+        "EveningLogoutTime": "5:30",
+        "MorningHours": 1230,
+        "EveningHours": 2178,
+        "TotalHours": 3408
+    }
+]

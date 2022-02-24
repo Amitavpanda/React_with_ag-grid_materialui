@@ -39,6 +39,8 @@ const DrawerComponent = () => {
         <
         List component = "div"
         disablePadding >
+
+
         <
         ListItemButton onClick = { handleElectricalClick } >
         <
@@ -136,8 +138,21 @@ const DrawerComponent = () => {
 
         <
         /List> <
-        /Collapse>
+        /Collapse> <
+        Link to = "/alldata"
+        style = {
+            { textDecoration: 'none' } } >
+        <
+        ListItemButton >
+        <
+        ListItemIcon >
+        <
+        ListItemText > All Data < /ListItemText> <
+        /ListItemIcon>
 
+        <
+        /ListItemButton> <
+        /Link>
 
         <
         /List> <

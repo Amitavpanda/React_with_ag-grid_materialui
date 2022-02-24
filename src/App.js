@@ -8,6 +8,7 @@ import EveningE from "./pages/electrical/eveninge.component";
 import MorningE from "./pages/electrical/morninge.component";
 import EveningM from "./pages/mechanical/eveningm.component";
 import MorningM from "./pages/mechanical/morningm.component";
+import AllData from "./pages/alldata.component";
 
 
 
@@ -17,23 +18,29 @@ function App() {
         <
         Header / >
         <
+        h1 > Home Page < /h1> <
         Routes >
         <
         Route exact path = "/"
         element = { < HomePage / > }
         /> <
-        Route path = "/eveninge"
+        Route exact path = "/alldata"
+        element = { < AllData / > }
+        /> <
+        Route exact path = "/eveninge"
         element = { < EveningE / > }
         /> <
-        Route path = "/morninge"
+        Route exact path = "/morninge"
         element = { < MorningE / > }
         /> <
-        Route path = "/eveningm"
+        Route exact path = "/eveningm"
         element = { < EveningM / > }
         /> <
         Route path = "/morningm"
         element = { < MorningM / > }
-        /> <
+        />
+
+        <
         /Routes>
 
         <
