@@ -72,6 +72,7 @@ const AllData = () => {
         };
         gridRef.current.api.createRangeChart(createRangeChartParams);
     }, []);
+
     return ( <
         div >
         <
