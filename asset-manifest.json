@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_with_ag-grid_materialui/static/css/main.bed54d24.css",
+    "main.js": "/React_with_ag-grid_materialui/static/js/main.2d5e2aaa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React_with_ag-grid_materialui/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/React_with_ag-grid_materialui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React_with_ag-grid_materialui/index.html",
+    "main.bed54d24.css.map": "/React_with_ag-grid_materialui/static/css/main.bed54d24.css.map",
+    "main.2d5e2aaa.js.map": "/React_with_ag-grid_materialui/static/js/main.2d5e2aaa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React_with_ag-grid_materialui/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed54d24.css",
+    "static/js/main.2d5e2aaa.js"
+  ]
+}
