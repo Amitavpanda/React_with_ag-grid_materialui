@@ -1,5 +1,6 @@
 {
     "name": "my-app",
+    "homepage": "https://Amitavpanda.github.io/React_with_ag-grid_materialui",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -13,15 +14,19 @@
         "ag-grid-community": "^27.0.1",
         "ag-grid-enterprise": "^27.0.1",
         "ag-grid-react": "^27.0.1",
+        "gh-pages": "^3.2.3",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
         "react-router": "^6.2.1",
         "react-router-dom": "^6.2.1",
         "react-scripts": "5.0.0",
+        "style-it": "^2.1.4",
         "styled-components": "^5.3.3",
         "web-vitals": "^2.1.4"
     },
     "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",

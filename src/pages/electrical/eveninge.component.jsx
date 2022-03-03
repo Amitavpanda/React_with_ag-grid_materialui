@@ -1,5 +1,6 @@
 import React, { useEffect, useCallback, useState, useRef, useMemo } from 'react';
 import { Link } from "react-router-dom";
+import { Button } from "@mui/material";
 import { AgGridReact, AgGridColumn } from 'ag-grid-react';
 import 'ag-grid-enterprise';
 import 'ag-grid-community/dist/styles/ag-grid.css';
@@ -252,9 +253,14 @@ const EveningE = () => {
         div >
         <
         h1 > Electrical Evening Staff Details < /h1> <
-        Link to = "/"
-        style = {
-            { textDecoration: 'none' } } > Home < /Link> <
+        Button sx = {
+            { fontSize: "20px", marginBottom: "20px" } }
+        variant = "contained"
+        size = "medium"
+        component = { Link }
+        to = { '/' } >
+        Home <
+        /Button> <
         div className = "ag-theme-alpine"
         style = { gridStyle } >
         <

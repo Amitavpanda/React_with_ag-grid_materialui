@@ -1,0 +1,27 @@
+.container {
+    position: relative;
+    color: white;
+}
+
+.container::after {
+    content: "";
+    opacity: 0.8;
+    background: rgb(26, 31, 41) url("../../static/images/background_homepage.jpg") no-repeat fixed top;
+    
+    background-size: cover;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    z-index: -1;
+    height: 700px;
+    margin: -29px;
+    justify-content: center;
+    align-items: center;
+}
+
+.homepageh1 {
+    text-align: center;
+    font-size: 3em;
+}

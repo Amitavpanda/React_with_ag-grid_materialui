@@ -1,5 +1,6 @@
 import React, { useEffect, useCallback, useState, useRef, useMemo } from 'react';
 import { Link } from "react-router-dom";
+import { Button } from '@mui/material';
 import { AgGridReact, AgGridColumn } from 'ag-grid-react';
 import 'ag-grid-enterprise';
 import 'ag-grid-community/dist/styles/ag-grid.css';
@@ -73,13 +74,21 @@ const AllData = () => {
         gridRef.current.api.createRangeChart(createRangeChartParams);
     }, []);
 
+
     return ( <
         div >
         <
         h1 > All Data < /h1> <
-        Link to = "/"
-        style = {
-            { textDecoration: 'none' } } > Home < /Link> <
+        Button sx = {
+            { fontSize: "20px", marginBottom: "20px" } }
+        variant = "contained"
+        size = "medium"
+        component = { Link }
+        to = { '/' } >
+        Home <
+        /Button>
+
+        <
         div className = "ag-theme-alpine"
         style = { gridStyle } >
         <
